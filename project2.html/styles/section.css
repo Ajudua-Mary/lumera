@@ -387,6 +387,9 @@
   display: grid;
   grid-template-columns: 1fr
  }
+  .section-section{
+    height: 100vh;
+  }
  .heroo2{
   display: flex;
  flex-direction: column;
